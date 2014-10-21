@@ -1,0 +1,20 @@
+{
+    "enabled": true,
+    "context": "server",
+    "identifier": "com.pa.UberBalance.rebalance",
+    "display_name": "Fixing the UberBalance",
+    "build": "72332",
+    "date": "2014/10/20",
+    "description": "Tests specific changes to the UberBalance",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "author": "Mered4",
+    "version": ".01",
+    "signature": "(not yet implemented)",
+    "forum": "https://forums.uberent.com/threads/rel-server-balance-the-community-uberbalance-v1-0.62376/",
+    "icon": "",
+    "priority": 100,
+    "dependencies": []
+}
